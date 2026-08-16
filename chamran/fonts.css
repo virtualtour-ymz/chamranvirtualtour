@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "B Koodak";
+   src: url("fonts/B Koodak Bold.woff") format("woff"), url("fonts/B Koodak Bold.eot") format("embedded-opentype"), url("fonts/B Koodak Bold.ttf") format("truetype"), url("fonts/B Koodak Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
